@@ -17,6 +17,7 @@ globals:
       <<: *output_properties
       building_part: {col: "building:part"}
       building_levels: {col: "building:levels"}
+      building_material: {col: "building:material"}
       building_min_levels: {col: "building:min_levels"}
       height: {col: height}
       min_height: {col: min_height}
